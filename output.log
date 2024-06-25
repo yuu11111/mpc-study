@@ -1,0 +1,2845 @@
+make[1]: Entering directory '/workspaces/mpc-study/test'
+make[2]: Entering directory '/workspaces/mpc-study/test/crypto'
+make[3]: Entering directory '/workspaces/mpc-study/test/crypto/secp256k1_algebra'
+./test
+===============================================================================
+All tests passed (4260 assertions in 8 test cases)
+
+make[3]: Leaving directory '/workspaces/mpc-study/test/crypto/secp256k1_algebra'
+make[3]: Entering directory '/workspaces/mpc-study/test/crypto/ed25519_algebra'
+./test
+===============================================================================
+All tests passed (4273 assertions in 9 test cases)
+
+make[3]: Leaving directory '/workspaces/mpc-study/test/crypto/ed25519_algebra'
+make[3]: Entering directory '/workspaces/mpc-study/test/crypto/paillier'
+./test
+===============================================================================
+All tests passed (320 assertions in 10 test cases)
+
+make[3]: Leaving directory '/workspaces/mpc-study/test/crypto/paillier'
+make[3]: Entering directory '/workspaces/mpc-study/test/crypto/shamir_secret_sharing'
+./test
+01234567890123456789012345678912
+01234567890123456789012345678912
+01234567890123456789012345678912
+01234567890123456789012345678912
+01234567890123456789012345678912
+1234567890123456789012345678912
+===============================================================================
+All tests passed (171 assertions in 5 test cases)
+
+make[3]: Leaving directory '/workspaces/mpc-study/test/crypto/shamir_secret_sharing'
+make[3]: Entering directory '/workspaces/mpc-study/test/crypto/zero_knowledge_proof'
+./test
+single verifications done in 346045 0s
+batch verification done in 27394 0s
+===============================================================================
+All tests passed (7311 assertions in 6 test cases)
+
+make[3]: Leaving directory '/workspaces/mpc-study/test/crypto/zero_knowledge_proof'
+make[3]: Entering directory '/workspaces/mpc-study/test/crypto/drng'
+./test
+===============================================================================
+All tests passed (32 assertions in 1 test case)
+
+make[3]: Leaving directory '/workspaces/mpc-study/test/crypto/drng'
+make[2]: Leaving directory '/workspaces/mpc-study/test/crypto'
+make[2]: Entering directory '/workspaces/mpc-study/test/cosigner'
+CXX  <=  eddsa_online_test.cpp
+make[3]: Entering directory '/workspaces/mpc-study/src'
+make[4]: Entering directory '/workspaces/mpc-study/src/common'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/workspaces/mpc-study/src/common'
+make[3]: Leaving directory '/workspaces/mpc-study/src'
+LINK =>  test
+keyid = 5d20ada2-e7ca-4f9d-a949-6024a036cedf
+created share for key 5d20ada2-e7ca-4f9d-a949-6024a036cedf n = 2
+created share for key 5d20ada2-e7ca-4f9d-a949-6024a036cedf n = 2
+backing up keyid 5d20ada2-e7ca-4f9d-a949-6024a036cedf..
+key share created for keyid 5d20ada2-e7ca-4f9d-a949-6024a036cedf, and algorithm ECDSA_SECP256K1
+backing up keyid 5d20ada2-e7ca-4f9d-a949-6024a036cedf..
+key share created for keyid 5d20ada2-e7ca-4f9d-a949-6024a036cedf, and algorithm ECDSA_SECP256K1
+backing up keyid 5d20ada2-e7ca-4f9d-a949-6024a036cedf..
+key share created for keyid 5d20ada2-e7ca-4f9d-a949-6024a036cedf, and algorithm ECDSA_SECP256K1
+backing up keyid 5d20ada2-e7ca-4f9d-a949-6024a036cedf..
+key share created for keyid 5d20ada2-e7ca-4f9d-a949-6024a036cedf, and algorithm ECDSA_SECP256K1
+public key: 03a253e579e8b2ad42a9f3bf06a8f26e10a4292c11a0047cc025761c4f54921bb2
+player 1 share: 7329d234313628f289e8b765c10b526b484e2867f4143a2459597e4d914bb3ab
+player 2 share: 89c4c030b3a533a81198b991c14ab2cd5aa67aa5bdfd5cc488b7d0b6e9b95d46
+request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Done preprocessing request 27cf784b-9e1e-4c9e-bc89-a35693316a1c, for key 5d20ada2-e7ca-4f9d-a949-6024a036cedf
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+Done preprocessing request 27cf784b-9e1e-4c9e-bc89-a35693316a1c, for key 5d20ada2-e7ca-4f9d-a949-6024a036cedf
+Entering request id = 27cf784b-9e1e-4c9e-bc89-a35693316a1c
+ECDSA preprocessing took: 4297 ms
+txid id = 98fd51fe-1b42-4eb7-8ad8-2444cd5ad5ac
+Entering txid = 98fd51fe-1b42-4eb7-8ad8-2444cd5ad5ac
+calculating sig with R' = R * 1
+Entering txid = 98fd51fe-1b42-4eb7-8ad8-2444cd5ad5ac
+Entering txid = 98fd51fe-1b42-4eb7-8ad8-2444cd5ad5ac
+calculating sig with R' = R * 1
+Entering txid = 98fd51fe-1b42-4eb7-8ad8-2444cd5ad5ac
+Entering txid = 98fd51fe-1b42-4eb7-8ad8-2444cd5ad5ac
+Entering txid = 98fd51fe-1b42-4eb7-8ad8-2444cd5ad5ac
+sig r: cc4e33ec88f367de24eacd5d79b8fe60cc5f12b7ce8c5737c9e80fe0c45cc4d6
+sig s: 0187d138bf3ef6d13bdc62aebad4160b23b70539297c738059781df289030ff9
+derived public_key: 02276d169aec494fa9249100dfa8ed63b15862fcde4420bd6f4367843d08d831c0
+Entering txid = 05c25f7b-9a73-42f2-a4a7-029df67853ef
+txid id = 05863cf5-83ba-4f7d-8804-45ab36c94e75
+Entering txid = 05863cf5-83ba-4f7d-8804-45ab36c94e75
+calculating sig with R' = R * 1
+Entering txid = 05863cf5-83ba-4f7d-8804-45ab36c94e75
+Entering txid = 05863cf5-83ba-4f7d-8804-45ab36c94e75
+calculating sig with R' = R * 1
+Entering txid = 05863cf5-83ba-4f7d-8804-45ab36c94e75
+Entering txid = 05863cf5-83ba-4f7d-8804-45ab36c94e75
+Entering txid = 05863cf5-83ba-4f7d-8804-45ab36c94e75
+sig r: 7fd1cd1bf373a0cfc4bdca31d78b7d08de0ad5e43f24a6d30d9327c3e2984fef
+sig s: 7a5d795f72d4d91cd3cfdbe248d2742c7d7637fd7e42e6ea48c79948cba77e07
+derived public_key: 02276d169aec494fa9249100dfa8ed63b15862fcde4420bd6f4367843d08d831c0
+txid id = 61a7367f-5680-44ea-b46f-9bad9fa00c28
+Entering txid = 61a7367f-5680-44ea-b46f-9bad9fa00c28
+calculating sig with R' = R * 2
+Entering txid = 61a7367f-5680-44ea-b46f-9bad9fa00c28
+Entering txid = 61a7367f-5680-44ea-b46f-9bad9fa00c28
+calculating sig with R' = R * 2
+Entering txid = 61a7367f-5680-44ea-b46f-9bad9fa00c28
+Entering txid = 61a7367f-5680-44ea-b46f-9bad9fa00c28
+Entering txid = 61a7367f-5680-44ea-b46f-9bad9fa00c28
+sig r: 35ccecc663b6c8ee051018afbcfb65dc9773c81d187822be1617b070dececeee
+sig s: 6182f6280408068b027b1ca28fce9292643150f9d2c16e0fc17d235f96f6a0ff
+derived public_key: 02276d169aec494fa9249100dfa8ed63b15862fcde4420bd6f4367843d08d831c0
+txid id = 21500155-81ae-48bf-a35f-3e895955068c
+Entering txid = 21500155-81ae-48bf-a35f-3e895955068c
+calculating sig with R' = R * 1
+Entering txid = 21500155-81ae-48bf-a35f-3e895955068c
+Entering txid = 21500155-81ae-48bf-a35f-3e895955068c
+calculating sig with R' = R * 1
+Entering txid = 21500155-81ae-48bf-a35f-3e895955068c
+Entering txid = 21500155-81ae-48bf-a35f-3e895955068c
+Entering txid = 21500155-81ae-48bf-a35f-3e895955068c
+sig r: 010e2575dbbb512127d9c1aa15d648f31c1129b59b94c6304c0a3ebb36e9edc8
+sig s: 44f1080b103a312838011be08065acaf42a65e4ec86e216ad38f15eda18d2b2f
+derived public_key: 02276d169aec494fa9249100dfa8ed63b15862fcde4420bd6f4367843d08d831c0
+txid id = 9176f636-2623-491d-bf2e-d19fac7c0d23
+Entering txid = 9176f636-2623-491d-bf2e-d19fac7c0d23
+calculating sig with R' = R * 2
+Entering txid = 9176f636-2623-491d-bf2e-d19fac7c0d23
+Entering txid = 9176f636-2623-491d-bf2e-d19fac7c0d23
+calculating sig with R' = R * 2
+Entering txid = 9176f636-2623-491d-bf2e-d19fac7c0d23
+Entering txid = 9176f636-2623-491d-bf2e-d19fac7c0d23
+Entering txid = 9176f636-2623-491d-bf2e-d19fac7c0d23
+sig r: 5670fc3aca765a89e1e280adc49a3443e90d24749900739748be71349ea47635
+sig s: 76d3b43f30cb3be83f9562d38e9712d10f0c2a68500f3c75a6bf38931963d7c9
+derived public_key: 02276d169aec494fa9249100dfa8ed63b15862fcde4420bd6f4367843d08d831c0
+txid id = 78954815-1bef-47b7-a9a1-69cbe84504dd
+Entering txid = 78954815-1bef-47b7-a9a1-69cbe84504dd
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+Entering txid = 78954815-1bef-47b7-a9a1-69cbe84504dd
+Entering txid = 78954815-1bef-47b7-a9a1-69cbe84504dd
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+Entering txid = 78954815-1bef-47b7-a9a1-69cbe84504dd
+Entering txid = 78954815-1bef-47b7-a9a1-69cbe84504dd
+Entering txid = 78954815-1bef-47b7-a9a1-69cbe84504dd
+sig r: e3c0accf176a45b1c846fa564a3f1446b1277176537ac3c960b8b30e0bc0dbb8
+sig s: 01e3d6c33e4418da15065ae7a302ae3fcfb8149cff476c43bec1ccbeeb595067
+derived public_key: 02276d169aec494fa9249100dfa8ed63b15862fcde4420bd6f4367843d08d831c0
+sig r: 1dc24105d8c45ea1faa7631f116a68e1c5c314962232ada00bda4c76ac12b419
+sig s: 728d660f7a1ba7a36f6fec3fd4cf3cc50685d13937de7c78452a62b88213e4fa
+derived public_key: 039062f10f011c2b98ea6c7cf826ea80270c20c7118ee6a3dc8635d87748c1c1a1
+sig r: 146c56fb18230feae84a11e882291f0781d268489086f5596732b3cae8e0e43e
+sig s: 6ea989105e4629fd6e4124f1d856d8ece520a33213a531dba6d83e17fc497004
+derived public_key: 0273725071adf259ffcf3fc1ee0219a09adc28a6a1534f98cab141ecfe590aa7f7
+sig r: 70cbd6c383e8e4c7b1025446fc392e87c44738438f5ae3f1bc67be8b321be707
+sig s: 4e66bb9ef73eb4e6c32ef670dec009d995c0b904e7a405c0186906f2dbdfa7f4
+derived public_key: 0301f578f13e47bb1cc9fa37e5b2ab30db8bd54d4161b201f115c730286a6a8a11
+request id = 1560a798-9f4f-460a-8423-962141d4e6e9
+Got key refresh request for key 5d20ada2-e7ca-4f9d-a949-6024a036cedf but this key has no ttl, this is strange
+Got key refresh request for key 5d20ada2-e7ca-4f9d-a949-6024a036cedf but this key has no ttl, this is strange
+Refreshing key 5d20ada2-e7ca-4f9d-a949-6024a036cedf
+Refreshing presigning data for key 5d20ada2-e7ca-4f9d-a949-6024a036cedf
+Storing new temporary key 1560a798-9f4f-460a-8423-962141d4e6e9 (request_id), key_id: 5d20ada2-e7ca-4f9d-a949-6024a036cedf
+Refreshing key 5d20ada2-e7ca-4f9d-a949-6024a036cedf
+Refreshing presigning data for key 5d20ada2-e7ca-4f9d-a949-6024a036cedf
+Storing new temporary key 1560a798-9f4f-460a-8423-962141d4e6e9 (request_id), key_id: 5d20ada2-e7ca-4f9d-a949-6024a036cedf
+backing up keyid 5d20ada2-e7ca-4f9d-a949-6024a036cedf..
+backing up keyid 5d20ada2-e7ca-4f9d-a949-6024a036cedf..
+txid id = 26b120f4-5579-4071-a6f0-4850094861c7
+Entering txid = 26b120f4-5579-4071-a6f0-4850094861c7
+calculating sig with R' = R * 1
+Entering txid = 26b120f4-5579-4071-a6f0-4850094861c7
+Entering txid = 26b120f4-5579-4071-a6f0-4850094861c7
+calculating sig with R' = R * 1
+Entering txid = 26b120f4-5579-4071-a6f0-4850094861c7
+Entering txid = 26b120f4-5579-4071-a6f0-4850094861c7
+Entering txid = 26b120f4-5579-4071-a6f0-4850094861c7
+sig r: bf4b1de25a27c2f952d10b748f23ba305aa075477bd80053831cb26bb5dce4da
+sig s: 6ae2390125a36cd0e8b4e9f8c099f5735763605a4f9b04436f4707203af8680b
+derived public_key: 02276d169aec494fa9249100dfa8ed63b15862fcde4420bd6f4367843d08d831c0
+keyid = a89b9068-576a-486a-b128-1cd1a4e6814b
+created share for key a89b9068-576a-486a-b128-1cd1a4e6814b n = 2
+created share for key a89b9068-576a-486a-b128-1cd1a4e6814b n = 2
+backing up keyid a89b9068-576a-486a-b128-1cd1a4e6814b..
+key share created for keyid a89b9068-576a-486a-b128-1cd1a4e6814b, and algorithm ECDSA_SECP256K1
+backing up keyid a89b9068-576a-486a-b128-1cd1a4e6814b..
+key share created for keyid a89b9068-576a-486a-b128-1cd1a4e6814b, and algorithm ECDSA_SECP256K1
+backing up keyid a89b9068-576a-486a-b128-1cd1a4e6814b..
+key share created for keyid a89b9068-576a-486a-b128-1cd1a4e6814b, and algorithm ECDSA_SECP256K1
+backing up keyid a89b9068-576a-486a-b128-1cd1a4e6814b..
+key share created for keyid a89b9068-576a-486a-b128-1cd1a4e6814b, and algorithm ECDSA_SECP256K1
+public key: 02bb91963009099ecee533ce0384c3d2ee6cc6381c17b6e600e6456ed4bc4788eb
+player 1 share: 93031a45f5d7e624195bfdc5e766e6f8a3a1de46605a4d5c38098404eda18374
+player 2 share: 938f871429b8557005f4d0389a04d3a04b629cecbf906188956bb185cf52539a
+request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Done preprocessing request e7641a98-ecda-4759-9c54-2110a185d485, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Done preprocessing request e7641a98-ecda-4759-9c54-2110a185d485, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = e7641a98-ecda-4759-9c54-2110a185d485
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Done preprocessing request 9c9f451e-c37f-4627-a7a4-28bcc92956e7, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Done preprocessing request 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Done preprocessing request 823a3964-9fbe-4486-9f4e-683b39cdeb28, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Done preprocessing request 9c9f451e-c37f-4627-a7a4-28bcc92956e7, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 9c9f451e-c37f-4627-a7a4-28bcc92956e7
+Done preprocessing request 0c6b7594-0536-48ef-aca1-c20486ac107d, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Done preprocessing request a5902d76-6bc6-4b6e-a61b-c98239488194, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Done preprocessing request 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Done preprocessing request 823a3964-9fbe-4486-9f4e-683b39cdeb28, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 823a3964-9fbe-4486-9f4e-683b39cdeb28
+Done preprocessing request 5ab0a7b4-54c3-4d84-823b-0147647ff046, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+Done preprocessing request 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 39b72b3d-0a79-4d6e-9e57-f2a45fd0ff83
+Done preprocessing request 0c6b7594-0536-48ef-aca1-c20486ac107d, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 0c6b7594-0536-48ef-aca1-c20486ac107d
+Done preprocessing request a5902d76-6bc6-4b6e-a61b-c98239488194, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = a5902d76-6bc6-4b6e-a61b-c98239488194
+Done preprocessing request 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 1dc9f602-a8cc-41a9-9101-7c9f87a16e2d
+Done preprocessing request 5ab0a7b4-54c3-4d84-823b-0147647ff046, for key a89b9068-576a-486a-b128-1cd1a4e6814b
+Entering request id = 5ab0a7b4-54c3-4d84-823b-0147647ff046
+ECDSA preprocessing took: 32040 ms
+txid id = 747ab23f-40ed-4260-a5c3-46ed9441b450
+Entering txid = 747ab23f-40ed-4260-a5c3-46ed9441b450
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+Entering txid = 747ab23f-40ed-4260-a5c3-46ed9441b450
+Entering txid = 747ab23f-40ed-4260-a5c3-46ed9441b450
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+Entering txid = 747ab23f-40ed-4260-a5c3-46ed9441b450
+Entering txid = 747ab23f-40ed-4260-a5c3-46ed9441b450
+Entering txid = 747ab23f-40ed-4260-a5c3-46ed9441b450
+sig r: 5c99ca9f7c102ff201e940450a32c49849a4f2b8e6f44cbff8eea125632204fe
+sig s: 51cf4634f8a6038b3009671a71433c6cf8cc942deb6fbc23e1dda6b3c43882c0
+derived public_key: 03a19f989153ab781b1f986a2a6cba2194631d158406ed41277bc9e85f624bd10b
+sig r: bb5e36d81f0c6b4c6cb0ed7683a2723617661ed4246498ba0e08a47f65dae1fc
+sig s: 727a0aac998a12329f14c77ae2957da2fb5f3a8bb82d1c587410d5f938019ff4
+derived public_key: 02d6cdef146413c7ed654eac6cfbc37669b4d646f397a51a8d42a4ab2e23062e91
+sig r: 5a51b61b9792e64f315ccc4e64857a876413130288041bead420984bd5151b09
+sig s: 2adcc0921288134f8d91b20715b683041b71d00128a2a159dba5f0d861cda3c8
+derived public_key: 02ac4f49525d7a8f369c6527d2f23b994d1933650147430a9c06221bbf1968ed67
+sig r: f3e6880911742cdd259b8820c8cb056bc31967b8a6ef47590ba9bda75d3e33b7
+sig s: 34d91ac3e6658b6ee0aa8c49bfe99cd8797af2e8202310608ce4edc0c0e2c270
+derived public_key: 02e0b06ae06194dc4dbc702095805a66859f124498740de59ed82bc229b8cd87b4
+keyid = c038438a-8aa5-4ea0-beed-2a9e22130868
+created share for key c038438a-8aa5-4ea0-beed-2a9e22130868 n = 2
+created share for key c038438a-8aa5-4ea0-beed-2a9e22130868 n = 2
+backing up keyid c038438a-8aa5-4ea0-beed-2a9e22130868..
+key share created for keyid c038438a-8aa5-4ea0-beed-2a9e22130868, and algorithm ECDSA_SECP256R1
+backing up keyid c038438a-8aa5-4ea0-beed-2a9e22130868..
+key share created for keyid c038438a-8aa5-4ea0-beed-2a9e22130868, and algorithm ECDSA_SECP256R1
+backing up keyid c038438a-8aa5-4ea0-beed-2a9e22130868..
+key share created for keyid c038438a-8aa5-4ea0-beed-2a9e22130868, and algorithm ECDSA_SECP256R1
+backing up keyid c038438a-8aa5-4ea0-beed-2a9e22130868..
+key share created for keyid c038438a-8aa5-4ea0-beed-2a9e22130868, and algorithm ECDSA_SECP256R1
+public key: 03254cfb2764d31f0eb368c2ef3914b0720a1c7b7a277a3df4c25d083ca5a97f50
+player 11 share: 3952c30852aceadedae627c6ae700cc57e71f1b63b6949f5d963bd715bf95ee4
+player 12 share: b18c96fe2a501f31479e599cefd230a123445ecad3c606e8311de08c988bf081
+request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Done preprocessing request 84f2c3a2-26cf-40f3-8b5f-4683dca975eb, for key c038438a-8aa5-4ea0-beed-2a9e22130868
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+Done preprocessing request 84f2c3a2-26cf-40f3-8b5f-4683dca975eb, for key c038438a-8aa5-4ea0-beed-2a9e22130868
+Entering request id = 84f2c3a2-26cf-40f3-8b5f-4683dca975eb
+txid id = a7c5e17f-262c-4c06-8e84-286e1486945a
+Entering txid = a7c5e17f-262c-4c06-8e84-286e1486945a
+calculating sig with R' = R * 1
+Entering txid = a7c5e17f-262c-4c06-8e84-286e1486945a
+Entering txid = a7c5e17f-262c-4c06-8e84-286e1486945a
+calculating sig with R' = R * 1
+Entering txid = a7c5e17f-262c-4c06-8e84-286e1486945a
+Entering txid = a7c5e17f-262c-4c06-8e84-286e1486945a
+Entering txid = a7c5e17f-262c-4c06-8e84-286e1486945a
+sig r: b24de790b92bb1247fa4398362bb6e51a1a27cfc83788eb244d2cb7b3c29c089
+sig s: 0534e3f86d8e351c00b63f2589c9d89c49858323641ecf3bc79237bd5e9e484e
+derived public_key: 0382742c9ba8187f120432f4a950e7cd94d03c977d4bc0293c4ce4a27201e94563
+new keyid = 21b8ea7e-0c4b-4938-ad76-952888fab691
+created share for key 21b8ea7e-0c4b-4938-ad76-952888fab691 n = 3
+created share for key 21b8ea7e-0c4b-4938-ad76-952888fab691 n = 3
+created share for key 21b8ea7e-0c4b-4938-ad76-952888fab691 n = 3
+backing up keyid 21b8ea7e-0c4b-4938-ad76-952888fab691..
+key share created for keyid 21b8ea7e-0c4b-4938-ad76-952888fab691, and algorithm ECDSA_SECP256R1
+backing up keyid 21b8ea7e-0c4b-4938-ad76-952888fab691..
+key share created for keyid 21b8ea7e-0c4b-4938-ad76-952888fab691, and algorithm ECDSA_SECP256R1
+backing up keyid 21b8ea7e-0c4b-4938-ad76-952888fab691..
+key share created for keyid 21b8ea7e-0c4b-4938-ad76-952888fab691, and algorithm ECDSA_SECP256R1
+player 21 share: a6614a113efed4db426beb3f8b5a82e31082330b6408054f20a76dbc21bc3371
+player 22 share: 7c3aeb296ce19913734ba3315c8fc3442722d516a5e7f83151fd79430aa8d450
+player 23 share: c84324cad11c9c226cccf2f2b657f73f26f8430cac56f1e28b9681c1c4836cf5
+request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Done preprocessing request 4e70e126-1153-4406-9fda-77330d010c94, for key 21b8ea7e-0c4b-4938-ad76-952888fab691
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Done preprocessing request 4e70e126-1153-4406-9fda-77330d010c94, for key 21b8ea7e-0c4b-4938-ad76-952888fab691
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+Done preprocessing request 4e70e126-1153-4406-9fda-77330d010c94, for key 21b8ea7e-0c4b-4938-ad76-952888fab691
+Entering request id = 4e70e126-1153-4406-9fda-77330d010c94
+txid id = 89130e48-8c37-4748-9421-8decd1ec3ea0
+Entering txid = 89130e48-8c37-4748-9421-8decd1ec3ea0
+calculating sig with R' = R * 1
+Entering txid = 89130e48-8c37-4748-9421-8decd1ec3ea0
+Entering txid = 89130e48-8c37-4748-9421-8decd1ec3ea0
+calculating sig with R' = R * 1
+Entering txid = 89130e48-8c37-4748-9421-8decd1ec3ea0
+Entering txid = 89130e48-8c37-4748-9421-8decd1ec3ea0
+calculating sig with R' = R * 1
+Entering txid = 89130e48-8c37-4748-9421-8decd1ec3ea0
+Entering txid = 89130e48-8c37-4748-9421-8decd1ec3ea0
+Entering txid = 89130e48-8c37-4748-9421-8decd1ec3ea0
+Entering txid = 89130e48-8c37-4748-9421-8decd1ec3ea0
+sig r: fe71ea337e902821e71af9868d4a924b41834954088e0cb382bcc5e86cc9cbee
+sig s: 74170fd1d8a923c675a2d3c4c1c7311e5e08754e90d1c52427fb47bc0b184cdf
+derived public_key: 0382742c9ba8187f120432f4a950e7cd94d03c977d4bc0293c4ce4a27201e94563
+keyid = 1eb31faa-e68f-46c0-8d25-2577aa4270d9
+created share for key 1eb31faa-e68f-46c0-8d25-2577aa4270d9 n = 2
+created share for key 1eb31faa-e68f-46c0-8d25-2577aa4270d9 n = 2
+backing up keyid 1eb31faa-e68f-46c0-8d25-2577aa4270d9..
+key share created for keyid 1eb31faa-e68f-46c0-8d25-2577aa4270d9, and algorithm ECDSA_STARK
+backing up keyid 1eb31faa-e68f-46c0-8d25-2577aa4270d9..
+key share created for keyid 1eb31faa-e68f-46c0-8d25-2577aa4270d9, and algorithm ECDSA_STARK
+backing up keyid 1eb31faa-e68f-46c0-8d25-2577aa4270d9..
+key share created for keyid 1eb31faa-e68f-46c0-8d25-2577aa4270d9, and algorithm ECDSA_STARK
+backing up keyid 1eb31faa-e68f-46c0-8d25-2577aa4270d9..
+key share created for keyid 1eb31faa-e68f-46c0-8d25-2577aa4270d9, and algorithm ECDSA_STARK
+public key: 030006c47f10474fd725f7c18976a4d2649b7349d4f594f12db47287b5da55d2a9
+player 21 share: 0756389fe877e6fbcbb4c46b9d855dae218bcd68fb313ea486fd58ca0f647187
+player 22 share: 0313a69cf38a3b347d04166c4176037f764ccdb6af250ee8eb97c1927d04a680
+request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Done preprocessing request abaadcbb-f7e9-49db-9df9-656b85731157, for key 1eb31faa-e68f-46c0-8d25-2577aa4270d9
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+Done preprocessing request abaadcbb-f7e9-49db-9df9-656b85731157, for key 1eb31faa-e68f-46c0-8d25-2577aa4270d9
+Entering request id = abaadcbb-f7e9-49db-9df9-656b85731157
+txid id = d8def5ca-6080-45a4-a304-2ed943cc93bb
+Entering txid = d8def5ca-6080-45a4-a304-2ed943cc93bb
+calculating sig with R' = R * 1
+Entering txid = d8def5ca-6080-45a4-a304-2ed943cc93bb
+Entering txid = d8def5ca-6080-45a4-a304-2ed943cc93bb
+calculating sig with R' = R * 1
+Entering txid = d8def5ca-6080-45a4-a304-2ed943cc93bb
+Entering txid = d8def5ca-6080-45a4-a304-2ed943cc93bb
+Entering txid = d8def5ca-6080-45a4-a304-2ed943cc93bb
+sig r: 04fe9e8563e12031154e79fbaca693934be755713077cd96069ff357f1cce44b
+sig s: 00073b9c7c931abbcfea29339cc44fff6106767cc6e58e8b2f92f9531a636800
+derived public_key: 02018e1c438638cdfdd44319b3c1e8607a8acd738acac404ccd39426d7a8450fdd
+keyid = 4e4f0986-8551-46c0-a015-4706c466df08
+created share for key 4e4f0986-8551-46c0-a015-4706c466df08 n = 2
+created share for key 4e4f0986-8551-46c0-a015-4706c466df08 n = 2
+backing up keyid 4e4f0986-8551-46c0-a015-4706c466df08..
+key share created for keyid 4e4f0986-8551-46c0-a015-4706c466df08, and algorithm EDDSA_ED25519
+backing up keyid 4e4f0986-8551-46c0-a015-4706c466df08..
+key share created for keyid 4e4f0986-8551-46c0-a015-4706c466df08, and algorithm EDDSA_ED25519
+backing up keyid 4e4f0986-8551-46c0-a015-4706c466df08..
+key share created for keyid 4e4f0986-8551-46c0-a015-4706c466df08, and algorithm EDDSA_ED25519
+backing up keyid 4e4f0986-8551-46c0-a015-4706c466df08..
+key share created for keyid 4e4f0986-8551-46c0-a015-4706c466df08, and algorithm EDDSA_ED25519
+public key: 15baf125a61cf97cfadd1b82fa44c10d1b8291cd5ba034d696cbb06a1a88292b
+player 1 share: 0a723ed7082e574b13e3ef86688916b11c289b89099ac147717f7ae1e38ed8ba
+player 2 share: 0f857f8a7e6f939848fd114edfdc819dd002255903e5bb0674978e2423d23cb9
+txid id = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Signature validated for block 0
+Finished signing 1 blocks for transaction c44f9363-0a27-46c0-8157-25ea7675f0c9 (tenant test tenant) in 24ms
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+Signature validated for block 0
+Finished signing 1 blocks for transaction c44f9363-0a27-46c0-8157-25ea7675f0c9 (tenant test tenant) in 28ms
+Entering txid = c44f9363-0a27-46c0-8157-25ea7675f0c9
+sig r: 444279cf98e1b6ad417461d67c8480b8e83e20333bf62bcd4b6c4d6c98469bd6
+sig s: 43d804aba5733947bad2ffe58356f96a1a3f09c01c9cb9d968a29afa0ad2550a
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+EDDSA signing took: 35 ms
+new keyid = 594255ba-a070-49a0-9659-fc73b7ace172
+created share for key 594255ba-a070-49a0-9659-fc73b7ace172 n = 3
+created share for key 594255ba-a070-49a0-9659-fc73b7ace172 n = 3
+created share for key 594255ba-a070-49a0-9659-fc73b7ace172 n = 3
+backing up keyid 594255ba-a070-49a0-9659-fc73b7ace172..
+key share created for keyid 594255ba-a070-49a0-9659-fc73b7ace172, and algorithm EDDSA_ED25519
+backing up keyid 594255ba-a070-49a0-9659-fc73b7ace172..
+key share created for keyid 594255ba-a070-49a0-9659-fc73b7ace172, and algorithm EDDSA_ED25519
+backing up keyid 594255ba-a070-49a0-9659-fc73b7ace172..
+key share created for keyid 594255ba-a070-49a0-9659-fc73b7ace172, and algorithm EDDSA_ED25519
+player 11 share: 045de1200336caa94a1744fd02494d7c3da11286d8f6d9792a229ae3c7207fc8
+player 12 share: 0e8718dcf186c80e88caaa50e8b5d0ac50d051aa19e76d8e24922f56010eaa0d
+player 13 share: 0712c46491e0582b89ff11875d667a265db95cb11aa2354697623ecc3f31eb9e
+txid id = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Starting signing process keyid = 594255ba-a070-49a0-9659-fc73b7ace172, txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Starting signing process keyid = 594255ba-a070-49a0-9659-fc73b7ace172, txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Starting signing process keyid = 594255ba-a070-49a0-9659-fc73b7ace172, txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Starting signing process keyid = 594255ba-a070-49a0-9659-fc73b7ace172, txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Starting signing process keyid = 594255ba-a070-49a0-9659-fc73b7ace172, txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Starting signing process keyid = 594255ba-a070-49a0-9659-fc73b7ace172, txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Signature validated for block 0
+Finished signing 1 blocks for transaction eeeacf24-82ce-420f-a042-a76d6c2c13a4 (tenant test tenant) in 37ms
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Signature validated for block 0
+Finished signing 1 blocks for transaction eeeacf24-82ce-420f-a042-a76d6c2c13a4 (tenant test tenant) in 42ms
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+Signature validated for block 0
+Finished signing 1 blocks for transaction eeeacf24-82ce-420f-a042-a76d6c2c13a4 (tenant test tenant) in 46ms
+Entering txid = eeeacf24-82ce-420f-a042-a76d6c2c13a4
+sig r: 9a0a50626f847e78dd58dfe7ebd33ec6d578502068bcd9524791bc66292be734
+sig s: f6b9543669107c3a1c98132e4a49867e1e65d6f9e79443d8b1d89e793b79be09
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+txid id = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Signature validated for block 0
+Signature validated for block 1
+Signature validated for block 2
+Signature validated for block 3
+Finished signing 4 blocks for transaction 1535b0ac-99ae-4413-a296-d884c8bfcb3a (tenant test tenant) in 100ms
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+Signature validated for block 0
+Signature validated for block 1
+Signature validated for block 2
+Signature validated for block 3
+Finished signing 4 blocks for transaction 1535b0ac-99ae-4413-a296-d884c8bfcb3a (tenant test tenant) in 120ms
+Entering txid = 1535b0ac-99ae-4413-a296-d884c8bfcb3a
+sig r: bf72f59f640b0808115e02694c7e15a2a3e3c2acaedf7611efbfdc866aea1f2f
+sig s: a457f5bf1845ea727f432f7966d555f266a584825548d90438bab6a4aea7c20e
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+sig r: bf72f59f640b0808115e02694c7e15a2a3e3c2acaedf7611efbfdc866aea1f2f
+sig s: 34211db770b726113dcfd453ca3d031a919cef7842d29a420156a9f3a73c2a0b
+derived public_key: 670cb345692a880b7aeae5c5d8a347ba42d1dc81cc16b1fb4bf5c5db501174dd00
+sig r: bf72f59f640b0808115e02694c7e15a2a3e3c2acaedf7611efbfdc866aea1f2f
+sig s: bd11155cfe6197774952f420fe83fa2f550449dfce1fb30904451e0fb3fd6304
+derived public_key: a871029eb4dc068b54b10088cdbfcc8a83f96a028702009507e992b117d0419200
+sig r: bf72f59f640b0808115e02694c7e15a2a3e3c2acaedf7611efbfdc866aea1f2f
+sig s: 3c6962b263172909ad0ebd2798d39204a5147a5aae66e5fc6e3a790c90ec4601
+derived public_key: 4a50833c34323209118ebea4067ce968d5a5c6f5dd9d5b38a0315c5882a40ce200
+txid id = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+txid id = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+txid id = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+txid id = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+txid id = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+txid id = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+txid id = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+txid id = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+txid id = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+txid id = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+txid id = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+txid id = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Signature validated for block 0
+Finished signing 1 blocks for transaction f4173724-c7cd-4a4b-bd0e-2ceee916ea21 (tenant test tenant) in 40ms
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+txid id = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+txid id = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Signature validated for block 0
+Finished signing 1 blocks for transaction f4173724-c7cd-4a4b-bd0e-2ceee916ea21 (tenant test tenant) in 49ms
+Entering txid = f4173724-c7cd-4a4b-bd0e-2ceee916ea21
+sig r: c2209484bcb2d2116bed2f235c419215cbd32c113866f4586c1da081f9816a2a
+sig s: c25d0137779e5383b7dcbc5e091fee98f95d4f34daac7a703e1564d88aaee602
+txid id = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+txid id = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Signature validated for block 0
+Finished signing 1 blocks for transaction c0d79230-2efb-4d7b-b849-a1f8fe69f6bd (tenant test tenant) in 300ms
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Signature validated for block 0
+Finished signing 1 blocks for transaction 5d045e2b-a980-4e63-9c96-99bcf3d70fbd (tenant test tenant) in 325ms
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Signature validated for block 0
+Finished signing 1 blocks for transaction d4e3f8ab-b73f-472d-9255-7b48db3bb711 (tenant test tenant) in 340ms
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+Signature validated for block 0
+Finished signing 1 blocks for transaction bf696f69-48ea-43b5-a6fb-fee5b618f8fa (tenant test tenant) in 358ms
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Signature validated for block 0
+Finished signing 1 blocks for transaction c8906db0-c00a-4dc9-a7a7-7af210e23f08 (tenant test tenant) in 333ms
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+Signature validated for block 0
+Finished signing 1 blocks for transaction 49eed396-9269-4ed7-8db7-dcb9c006e9d8 (tenant test tenant) in 327ms
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+Signature validated for block 0
+Finished signing 1 blocks for transaction 90567f81-be03-4c6d-94d6-130438cbda26 (tenant test tenant) in 366ms
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+Signature validated for block 0
+Finished signing 1 blocks for transaction 188a1dd7-b93d-4f58-9694-1fea1ea665e5 (tenant test tenant) in 363ms
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+Signature validated for block 0
+Finished signing 1 blocks for transaction e099a0c1-5595-4cbf-993b-f44abf89c384 (tenant test tenant) in 328ms
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+Signature validated for block 0
+Finished signing 1 blocks for transaction 2992e5c2-2891-42c1-99df-990ff591096a (tenant test tenant) in 377ms
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+Signature validated for block 0
+Signature validated for block 0
+Finished signing 1 blocks for transaction 291a2702-03ed-4588-9a13-7ab47c1d2beb (tenant test tenant) in 387ms
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+Signature validated for block 0
+Finished signing 1 blocks for transaction c0d79230-2efb-4d7b-b849-a1f8fe69f6bd (tenant test tenant) in 360ms
+Entering txid = c0d79230-2efb-4d7b-b849-a1f8fe69f6bd
+sig r: e31cc9afca7199c140372c4d29c76dcd2f0f52a58158f8f446606f3359f438b3
+Finished signing 1 blocks for transaction ba9d7294-27dc-4212-8c8f-c34d984e3d58 (tenant test tenant) in 358ms
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+Signature validated for block 0
+Finished signing 1 blocks for transaction 4209fb36-f4c5-4ef0-8333-45dc722cb2fa (tenant test tenant) in 407ms
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+Signature validated for block 0
+Finished signing 1 blocks for transaction 2992e5c2-2891-42c1-99df-990ff591096a (tenant test tenant) in 402ms
+Entering txid = 2992e5c2-2891-42c1-99df-990ff591096a
+sig r: b9522305e284cdd41a2655540f25fef6f8bcfa336922b823aee8d9621dfa4f22
+Signature validated for block 0
+Finished signing 1 blocks for transaction 90567f81-be03-4c6d-94d6-130438cbda26 (tenant test tenant) in 406ms
+Entering txid = 90567f81-be03-4c6d-94d6-130438cbda26
+sig r: 40a0427b89d98a7eb4bb3bb4a42c9f08a75ed1dc288ce64a169144704fe33695
+sig s: b4b8632c6674cb2d5be2ea4d64c136922ba379a6d7fe27741ec4fc9969fdff0b
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+Signature validated for block 0
+Finished signing 1 blocks for transaction 291a2702-03ed-4588-9a13-7ab47c1d2beb (tenant test tenant) in 418ms
+Entering txid = 291a2702-03ed-4588-9a13-7ab47c1d2beb
+sig r: 8016fb94546cc5738faeb6ae494a4f56c43a4d8dd75bffa7016f2e516a6dbd94
+sig s: aa7cd7ad7ed827e04a08251b61e0255617daf030903e1a7a95bec9f29c07aa0d
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+Signature validated for block 0
+Signature validated for block 0
+Finished signing 1 blocks for transaction bf696f69-48ea-43b5-a6fb-fee5b618f8fa (tenant test tenant) in 431ms
+Entering txid = bf696f69-48ea-43b5-a6fb-fee5b618f8fa
+sig r: 078f039c5320bb1e62a9ccbbdad8c548c38d63b77c7d5d9075c643bcbef04cea
+sig s: 14caa697cf4271f3ffd48015aa2d3164d21e20c285121b49641f2ba4dc1cd90f
+Signature validated for block 0
+Finished signing 1 blocks for transaction d4e3f8ab-b73f-472d-9255-7b48db3bb711 (tenant test tenant) in 414ms
+Entering txid = d4e3f8ab-b73f-472d-9255-7b48db3bb711
+sig r: ce259732905f3e2df3da4648c734413fd35549520cf91b89c5073b2d8ffe3766
+Signature validated for block 0
+Finished signing 1 blocks for transaction e099a0c1-5595-4cbf-993b-f44abf89c384 (tenant test tenant) in 381ms
+Entering txid = e099a0c1-5595-4cbf-993b-f44abf89c384
+sig r: 1d912d246ca11b8763a8bd38d37de8da3a760394826095150156ba3e3144b2cc
+sig s: cb5cb346986c848a56636cb823babb8addb0435cf3ba8a8b5935a3cd36dfe403
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+Signature validated for block 0
+Finished signing 1 blocks for transaction 49eed396-9269-4ed7-8db7-dcb9c006e9d8 (tenant test tenant) in 392ms
+Entering txid = 49eed396-9269-4ed7-8db7-dcb9c006e9d8
+sig r: 7fabc6baac8a7528fa9e1594d79d41b9380a3f3c54f77cce2ced7e2029cb26ef
+sig s: 2ec22bdbd6809c2552d2ac9f6038caf3651a2a69635f9c7346d511c48d88d003
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+Signature validated for block 0
+Finished signing 1 blocks for transaction 0a86cf78-ba50-4e56-9128-84e50b2dfa01 (tenant test tenant) in 410ms
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+Signature validated for block 0
+Finished signing 1 blocks for transaction c8906db0-c00a-4dc9-a7a7-7af210e23f08 (tenant test tenant) in 406ms
+Entering txid = c8906db0-c00a-4dc9-a7a7-7af210e23f08
+sig r: 0fd749281165b891dc1a9ddfaa0a816c3178573882e7c6f1e9459e508381b005
+sig s: a53a40a8fbe88ace536969b5c5d0bc339af757981f558e5bd25c21652180680a
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+Finished signing 1 blocks for transaction 188a1dd7-b93d-4f58-9694-1fea1ea665e5 (tenant test tenant) in 423ms
+sig s: 127f788d8ca426fb74baf43f9ecaee220ee8b2eba87766fb661f57d772fda303
+Signature validated for block 0
+Finished signing 1 blocks for transaction 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5 (tenant test tenant) in 428ms
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+sig s: 5bf507b369abbb49f0e7865396b72d2a086d14618faf38f97a67a556f55d0a05
+sig s: eba56de16d94a1b1b51f100010dc735d683e5f366884f005a41c00242ce40d05
+Signature validated for block 0
+Finished signing 1 blocks for transaction 0a86cf78-ba50-4e56-9128-84e50b2dfa01 (tenant test tenant) in 431ms
+Entering txid = 0a86cf78-ba50-4e56-9128-84e50b2dfa01
+sig r: 992d689564df0ccf7ac102efa94b325a42049fd47bd05e10f160ead8d2d845f4
+Entering txid = 188a1dd7-b93d-4f58-9694-1fea1ea665e5
+sig r: 9a2af828c2a566efe346318a5756e76d257f1d6b5dcd76b78cef61fbb4fad8f1
+sig s: 126faf4153bbd085361239293b1c91d82731ede3dad04bf56d4837827dd5030d
+Signature validated for block 0
+Signature validated for block 0
+Finished signing 1 blocks for transaction 5d045e2b-a980-4e63-9c96-99bcf3d70fbd (tenant test tenant) in 444ms
+Finished signing 1 blocks for transaction 4209fb36-f4c5-4ef0-8333-45dc722cb2fa (tenant test tenant) in 460ms
+Entering txid = 5d045e2b-a980-4e63-9c96-99bcf3d70fbd
+Entering txid = 4209fb36-f4c5-4ef0-8333-45dc722cb2fa
+sig r: sig r: e56453a01f3de4717d2600f292312b6ab2b1a73c59db9730819105873777d154
+c139ad7d1d82062d867ec435c01c12c179e91351e95fc5a08e9628fc211b7c4dsig s: d4e3e19e9f5db8235e335eb5a33094d5476ce76046af424e12585996d96e4b0f
+
+sig s: e670d9700e6e6990a34ed65f0f3a17d83de90aa5e48151e71807bee41adb8c0a
+Signature validated for block 0
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+Finished signing 1 blocks for transaction ba9d7294-27dc-4212-8c8f-c34d984e3d58 (tenant test tenant) in 434ms
+Entering txid = ba9d7294-27dc-4212-8c8f-c34d984e3d58
+sig r: e5c153eed3b7b430dfef651c080acf24e80143e4f8dfa49a242bdea5fbd7604a
+sig s: 403a504918f0a9ed234a15274776c350b9c6df1ccc52ed407ec1e93d49d72f0d
+Signature validated for block 0
+Finished signing 1 blocks for transaction 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5 (tenant test tenant) in 447ms
+Entering txid = 54174a7a-0d5b-481b-a2fe-c3f98f2e48e5
+sig r: 73ca0cc33572e7f9d0c09e3421be65f5e80c5dea2aab9959b3db0e0da2031539
+sig s: 1413debe8cb0a00764c98b07a745085dcef91b5c36c8ddc60576d37780d25506
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+sig s: a8d55467e040d93ab25e110a362b9fff77b28e259fa4eeec2d98fae6988f9507
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+Done in 507 ms
+txid id = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Signature validated for block 0
+Finished signing 1 blocks for transaction 75bc350b-ef2f-406e-9255-5159a599272a (tenant test tenant) in 25ms
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+Signature validated for block 0
+Finished signing 1 blocks for transaction 75bc350b-ef2f-406e-9255-5159a599272a (tenant test tenant) in 31ms
+Entering txid = 75bc350b-ef2f-406e-9255-5159a599272a
+sig r: 9200fced99af860aaae0b5d14b8368bab71103913597ed9799f618148e06a934
+sig s: 913020a8e729be687f1f08a888144f3184aa22c5806beedd7791b697ca1e7105
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+txid id = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Signature validated for block 0
+Finished signing 1 blocks for transaction 6a496d98-a7bf-479c-838e-1c65e0c7f8c9 (tenant test tenant) in 24ms
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+Signature validated for block 0
+Finished signing 1 blocks for transaction 6a496d98-a7bf-479c-838e-1c65e0c7f8c9 (tenant test tenant) in 28ms
+Entering txid = 6a496d98-a7bf-479c-838e-1c65e0c7f8c9
+sig r: fde20e3e8e98c92c604e8ebd0cfa7a8599f9ebab1e38a7ba43ee197c3c1d1a69
+sig s: fccdc2cbbf4f88cb0065dfae7debf8d4b0fdf8822b0707c731dac29bdc654505
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+txid id = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Signature validated for block 0
+Finished signing 1 blocks for transaction 4c925b3c-32b6-496f-b72c-26010c4e809f (tenant test tenant) in 25ms
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+Signature validated for block 0
+Finished signing 1 blocks for transaction 4c925b3c-32b6-496f-b72c-26010c4e809f (tenant test tenant) in 29ms
+Entering txid = 4c925b3c-32b6-496f-b72c-26010c4e809f
+sig r: 43f28a16435156b1fa01712ea8f385b562e68a5d41f45f0a43ee34158e2d6ff3
+sig s: ee4ef9694bd37030a3a04bd1e34e455bc02635a974b17945fe8af964eeef0f0f
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+txid id = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Signature validated for block 0
+Finished signing 1 blocks for transaction 8c987851-052b-4718-b494-3fc7905932f9 (tenant test tenant) in 24ms
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+Signature validated for block 0
+Finished signing 1 blocks for transaction 8c987851-052b-4718-b494-3fc7905932f9 (tenant test tenant) in 28ms
+Entering txid = 8c987851-052b-4718-b494-3fc7905932f9
+sig r: bc46437b8ae76229c1cd6691491c70e9e54d7f832f7b4f1d1cb8c1fc41eeadbe
+sig s: e206c05a80c80779e62b22b91914f152d1aa70a5e657bb36f076691ec24ff00f
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+txid id = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Signature validated for block 0
+Finished signing 1 blocks for transaction 5d539cd1-014f-47c0-a7a3-49b6459a2431 (tenant test tenant) in 24ms
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+Signature validated for block 0
+Finished signing 1 blocks for transaction 5d539cd1-014f-47c0-a7a3-49b6459a2431 (tenant test tenant) in 28ms
+Entering txid = 5d539cd1-014f-47c0-a7a3-49b6459a2431
+sig r: 956666ea07ca787819bc3978d7025f8588946573134f66dc0b3c713489c38ff5
+sig s: 428735dffb8c89624299769df9ba7968a7f90f6ac3e1591cd9d93695692a5504
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+txid id = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Signature validated for block 0
+Finished signing 1 blocks for transaction ee6297a9-993d-4ce4-aafa-91aa77836faf (tenant test tenant) in 28ms
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+Signature validated for block 0
+Finished signing 1 blocks for transaction ee6297a9-993d-4ce4-aafa-91aa77836faf (tenant test tenant) in 33ms
+Entering txid = ee6297a9-993d-4ce4-aafa-91aa77836faf
+sig r: cc33a55ecada22c5a073d841f09fd41288506667127c8f7527c2b0845a685899
+sig s: f83b6e22b2523a589c245e163950308e45cd649413a0244b2a37905c86cdb00b
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+txid id = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Signature validated for block 0
+Finished signing 1 blocks for transaction 4eab84ce-b9de-4160-95bd-8ac835a2cc39 (tenant test tenant) in 24ms
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+Signature validated for block 0
+Finished signing 1 blocks for transaction 4eab84ce-b9de-4160-95bd-8ac835a2cc39 (tenant test tenant) in 28ms
+Entering txid = 4eab84ce-b9de-4160-95bd-8ac835a2cc39
+sig r: 77c5b7f3eb4ac95a1b926eaa0b3d4a02a7904175ddfea78a8f31b13550e02cbb
+sig s: 8a4686ae70f12672f5f13d030f2597412930087badde99fb427900c8698ad200
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+txid id = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Starting signing process keyid = 4e4f0986-8551-46c0-a015-4706c466df08, txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Signature validated for block 0
+Finished signing 1 blocks for transaction ba591c8e-fbca-45f6-a9f3-4404b39dee13 (tenant test tenant) in 24ms
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+Signature validated for block 0
+Finished signing 1 blocks for transaction ba591c8e-fbca-45f6-a9f3-4404b39dee13 (tenant test tenant) in 29ms
+Entering txid = ba591c8e-fbca-45f6-a9f3-4404b39dee13
+sig r: 93e270a3bc0217ea419e5adf2ea7f50fef47d8b3d9bf556cab872501fb384dc8
+sig s: ab7f0da90ec4fe6be09f503ddcdd3d191879a696c47f18abb8ccbdfad6834905
+derived public_key: 567e2547473a2acc3f4d13e22dab0b3f04f0b881d81405585beb869ac272b16000
+keyid = 1820808d-5a1f-44b6-bd05-d90820c16415
+created share for key 1820808d-5a1f-44b6-bd05-d90820c16415 n = 2
+created share for key 1820808d-5a1f-44b6-bd05-d90820c16415 n = 2
+backing up keyid 1820808d-5a1f-44b6-bd05-d90820c16415..
+key share created for keyid 1820808d-5a1f-44b6-bd05-d90820c16415, and algorithm ECDSA_SECP256K1
+backing up keyid 1820808d-5a1f-44b6-bd05-d90820c16415..
+key share created for keyid 1820808d-5a1f-44b6-bd05-d90820c16415, and algorithm ECDSA_SECP256K1
+backing up keyid 1820808d-5a1f-44b6-bd05-d90820c16415..
+key share created for keyid 1820808d-5a1f-44b6-bd05-d90820c16415, and algorithm ECDSA_SECP256K1
+backing up keyid 1820808d-5a1f-44b6-bd05-d90820c16415..
+key share created for keyid 1820808d-5a1f-44b6-bd05-d90820c16415, and algorithm ECDSA_SECP256K1
+public key: 02b8d20f57cb9db6b20973c500e2caeedda6e8d401bb510e1cee428c7a14f07723
+player 1 share: 7881dd4a6f78a4f5744c2966b5b3ef753bdf5ea8ffa0654b517e41f0cdadd106
+player 2 share: cdb22fc0bf70c06db86cbb350379b3267ec88bac22364f71958e1e047173a82f
+txid id = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+calculating sig with R' = R * 1
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+calculating sig with R' = R * 1
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Signature validated for block 0
+Finished signing 1 blocks for transaction 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9 (tenant test tenant) in 569ms
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+Signature validated for block 0
+Finished signing 1 blocks for transaction 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9 (tenant test tenant) in 475ms
+Entering txid = 9dd0dfd1-d4f1-41ec-aa60-6e9b70b82af9
+sig r: 62fa24001b42cd36e6b8b93deec32bb7389dced6ced444f4779ad9898c05aec5
+sig s: 04c704787941fdd7ee79024023d7b9ce720ff694ab357e646bf21ced7d795b7e
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+ECDSA signing took: 734 ms
+new keyid = e51c620c-38fa-463a-8bda-fb6d28d2ab92
+created share for key e51c620c-38fa-463a-8bda-fb6d28d2ab92 n = 3
+created share for key e51c620c-38fa-463a-8bda-fb6d28d2ab92 n = 3
+created share for key e51c620c-38fa-463a-8bda-fb6d28d2ab92 n = 3
+backing up keyid e51c620c-38fa-463a-8bda-fb6d28d2ab92..
+key share created for keyid e51c620c-38fa-463a-8bda-fb6d28d2ab92, and algorithm ECDSA_SECP256K1
+backing up keyid e51c620c-38fa-463a-8bda-fb6d28d2ab92..
+key share created for keyid e51c620c-38fa-463a-8bda-fb6d28d2ab92, and algorithm ECDSA_SECP256K1
+backing up keyid e51c620c-38fa-463a-8bda-fb6d28d2ab92..
+key share created for keyid e51c620c-38fa-463a-8bda-fb6d28d2ab92, and algorithm ECDSA_SECP256K1
+player 11 share: ef8167ce64b9085bab84849a7ae642042183d9e23369f32f4fe095eb7e861c85
+player 12 share: 05d1222d0b2f20cbb6d28c402582f0e403a07e0351272e61eab1a36aeface849
+player 13 share: 50e1830fbf013c3bca61d3c118c46fb39583926f9d45932bac7a269ed0ee7467
+txid id = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Starting signing process keyid = e51c620c-38fa-463a-8bda-fb6d28d2ab92, txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Starting signing process keyid = e51c620c-38fa-463a-8bda-fb6d28d2ab92, txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Starting signing process keyid = e51c620c-38fa-463a-8bda-fb6d28d2ab92, txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Starting signing process keyid = e51c620c-38fa-463a-8bda-fb6d28d2ab92, txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Starting signing process keyid = e51c620c-38fa-463a-8bda-fb6d28d2ab92, txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Starting signing process keyid = e51c620c-38fa-463a-8bda-fb6d28d2ab92, txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+calculating sig with R' = R * 1
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+calculating sig with R' = R * 1
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+calculating sig with R' = R * 1
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Signature validated for block 0
+Finished signing 1 blocks for transaction f7414f62-2a93-40ea-9945-43ebd3536c1f (tenant test tenant) in 1476ms
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Signature validated for block 0
+Finished signing 1 blocks for transaction f7414f62-2a93-40ea-9945-43ebd3536c1f (tenant test tenant) in 1254ms
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+Signature validated for block 0
+Finished signing 1 blocks for transaction f7414f62-2a93-40ea-9945-43ebd3536c1f (tenant test tenant) in 1066ms
+Entering txid = f7414f62-2a93-40ea-9945-43ebd3536c1f
+sig r: 5ac460f960079ae913f89992a858aa62a1f5913c8fde1b0a39a9d47faf4de1ec
+sig s: 4cbf6e92a4e0fa63a113763a93bc58047beed065636f07ee78b9d80d819101c9
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+txid id = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+calculating sig with R' = R * 1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Signature validated for block 0
+Signature validated for block 1
+Signature validated for block 2
+Signature validated for block 3
+Finished signing 4 blocks for transaction 857c106d-c08c-4354-ae2b-b2a90495cbd1 (tenant test tenant) in 1527ms
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+Signature validated for block 0
+Signature validated for block 1
+Signature validated for block 2
+Signature validated for block 3
+Finished signing 4 blocks for transaction 857c106d-c08c-4354-ae2b-b2a90495cbd1 (tenant test tenant) in 1083ms
+Entering txid = 857c106d-c08c-4354-ae2b-b2a90495cbd1
+sig r: c23bb38b153c907bd1004b377d5a0319eb706b20b433fca5e00ceb7a7b6fdcaf
+sig s: 102aa1b0cedca2c984a99bd5ea90a33f4c4d8ec3ea2db4f88a33d80764b85e84
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+sig r: fd349b0c4b117f821c11903807f5128d4ed996b2034dd7410f1329cdd98ffe58
+sig s: 01eef13c4c95c695c015847c15de974f10c5a574aaa1b2cfd9b4470d8990b874
+derived public_key: 03b8be56fb12462da958bc2a4d9f75c98fc7b5328c5c8051dfd534a0fe3e52118e
+sig r: f7335a5bb1ce5be6272312497ac052df40c50f8bc1be664229326d9b8d49b3a0
+sig s: 06b6db20f994578a99b12a5ef5291746e7e97b17dd2c60073906b00787b3d2c3
+derived public_key: 03c81ee57768068f668192b77ab68e7e4465004da2142b105b96908ebd7d7ddf7b
+sig r: 682240655b0b9838bcc0ff18e3b25d6554669172438894258e374cd9246832c5
+sig s: 07a5e3cec6585f1774c59077e764362ee345a2bc0217a8eab5b84ba55c9f47c4
+derived public_key: 0209b146d6aed441c06cf89c694e8b1317e988ffcfde7082c190fc9da0e6395ec7
+txid id = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+txid id = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+txid id = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+txid id = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+txid id = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+txid id = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+txid id = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+txid id = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+txid id = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+txid id = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+txid id = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 8a213f32-0803-475c-9b68-fe18e530e841
+txid id = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 20dc7270-4244-4c67-961b-8989462f03c4
+txid id = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+txid id = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+txid id = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = cc88431e-8493-435e-8c77-d49f9d48e278
+txid id = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+calculating sig with R' = R * 1
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+calculating sig with R' = R * 1
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Signature validated for block 0
+Finished signing 1 blocks for transaction 48e388e8-f0b1-4196-9e30-e23dd4840cb5 (tenant test tenant) in 7839ms
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Signature validated for block 0
+Finished signing 1 blocks for transaction 48e388e8-f0b1-4196-9e30-e23dd4840cb5 (tenant test tenant) in 6324ms
+Entering txid = 48e388e8-f0b1-4196-9e30-e23dd4840cb5
+sig r: fed9ac41e3b323a2e18f334581dace5ee3287f898424fc52e680880b38e5d461
+sig s: 24e24c71cd9d302860467b1c362ef767b2b7e3c813d6daaae91f5eeb8edc64a3
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+calculating sig with R' = R * 1
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+calculating sig with R' = R * 1
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Signature validated for block 0
+Finished signing 1 blocks for transaction cc88431e-8493-435e-8c77-d49f9d48e278 (tenant test tenant) in 7635ms
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+calculating sig with R' = R * 1
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+calculating sig with R' = R * 1
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Signature validated for block 0
+Finished signing 1 blocks for transaction cc88431e-8493-435e-8c77-d49f9d48e278 (tenant test tenant) in 6111ms
+Entering txid = cc88431e-8493-435e-8c77-d49f9d48e278
+sig r: 1996085432593c385cb449f950f82d30c887e3f63f24711651c03912c163e238
+sig s: 6b3e529f7490341e85d7bf28abb2c5fc198ef219bf29019e6cd027d43a3d52bc
+calculating sig with R' = R * 1
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+calculating sig with R' = R * 1
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+calculating sig with R' = R * 1
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+calculating sig with R' = R * 1
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+calculating sig with R' = R * 1
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Signature validated for block 0
+Finished signing 1 blocks for transaction 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0 (tenant test tenant) in 7587ms
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+calculating sig with R' = R * 1
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+calculating sig with R' = R * 1
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Signature validated for block 0
+Finished signing 1 blocks for transaction 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0 (tenant test tenant) in 5979ms
+Entering txid = 0ad3d66e-8aee-41b4-b8a5-be77ebfef7c0
+sig r: 8e67436915a8223dc787d5f7d25a1583b57ea79a203fbed0a00e14c34d4f0b54
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+calculating sig with R' = R * 1
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+sig s: 4ae6919a2fc9974cac58332af0401bfd1df0a8a0920ca3513075e15a29d11318
+calculating sig with R' = R * 1
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+calculating sig with R' = R * 1
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+calculating sig with R' = R * 1
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+calculating sig with R' = R * 1
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+calculating sig with R' = R * 1
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Signature validated for block 0
+Finished signing 1 blocks for transaction 56547631-76d1-4a3a-91a3-bda4edf582c9 (tenant test tenant) in 7723ms
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+calculating sig with R' = R * 1
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+calculating sig with R' = R * 1
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Signature validated for block 0
+Finished signing 1 blocks for transaction b4cded20-d026-4491-a3fe-e0aaabe1546d (tenant test tenant) in 7780ms
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+calculating sig with R' = R * 1
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Signature validated for block 0
+Finished signing 1 blocks for transaction 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5 (tenant test tenant) in 7636ms
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Signature validated for block 0
+Finished signing 1 blocks for transaction 35e31d4b-7ce5-4b8c-be47-bf78d9763b46 (tenant test tenant) in 7842ms
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Signature validated for block 0
+Finished signing 1 blocks for transaction d4e6f8f9-6b9d-4036-8f57-f43ee39b674f (tenant test tenant) in 7851ms
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+calculating sig with R' = R * 1
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Signature validated for block 0
+Finished signing 1 blocks for transaction 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5 (tenant test tenant) in 6094ms
+Entering txid = 5cfe69a2-aa35-40a3-aa28-7bd78affa7d5
+sig r: 086e498a2bffb4801d68643b844c1ed29a5647cfd998a824267ba2c46bd04a8b
+sig s: 3ee941b63dc688cd9406ea348ed6596a3d0294fc62063d0ab21d4a777276cd5e
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+calculating sig with R' = R * 1
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Signature validated for block 0
+Signature validated for block 0
+Finished signing 1 blocks for transaction e02df53e-f68f-4ba4-94c9-440e69b5094b (tenant test tenant) in 7699ms
+Finished signing 1 blocks for transaction 35e31d4b-7ce5-4b8c-be47-bf78d9763b46 (tenant test tenant) in 6205ms
+Entering txid = 35e31d4b-7ce5-4b8c-be47-bf78d9763b46
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+sig r: 7eacec4ae749a0178f54b2c7da39996778e5d3cc024e069e00e452841abbc962
+sig s: 2c35cff03609eea68841e6a3b01d4d8cff8ada43afddc84262779ac5e4eca870
+calculating sig with R' = R * 1
+Signature validated for block 0
+Finished signing 1 blocks for transaction 56547631-76d1-4a3a-91a3-bda4edf582c9 (tenant test tenant) in 6149ms
+Entering txid = 56547631-76d1-4a3a-91a3-bda4edf582c9
+sig r: 0dadce660429a5be44cb79c14d1a61b45c62139f329dda8aee9b911d62f3f9b7
+sig s: 30e38a2c918f4cb843d7343a575f5e34e82b9d0f8a56ffbc2f383859469f211a
+calculating sig with R' = R * 1
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Signature validated for block 0
+Finished signing 1 blocks for transaction d4e6f8f9-6b9d-4036-8f57-f43ee39b674f (tenant test tenant) in 6262ms
+Entering txid = d4e6f8f9-6b9d-4036-8f57-f43ee39b674f
+sig r: d781b58a966371405d25ae019a8d21c5ba07a18e41c61dda5cffd71a04608592
+sig s: Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+3c8e2e41bfe3910cda4af60920e005267826b0c07b2cb5cfad7175eedab0b148
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Signature validated for block 0
+Finished signing 1 blocks for transaction e02df53e-f68f-4ba4-94c9-440e69b5094b (tenant test tenant) in 6095ms
+Entering txid = e02df53e-f68f-4ba4-94c9-440e69b5094b
+sig r: d78367007aace0241927783a6f8cd7665be24eee59f6389af16714d59cd95c89
+sig s: 7c6179500591b09e5c9b403a3c2e5e90dbdcc750afdade9f8a0fc23a7ecb9aa7
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Signature validated for block 0
+Finished signing 1 blocks for transaction 0c1e6232-e747-411d-8027-164d2ae052a1 (tenant test tenant) in 7870ms
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Signature validated for block 0
+Finished signing 1 blocks for transaction b4cded20-d026-4491-a3fe-e0aaabe1546d (tenant test tenant) in 6366ms
+Entering txid = b4cded20-d026-4491-a3fe-e0aaabe1546d
+sig r: f0addbf279f32f6d7e0b11142634eb1c383f76250ca4bcf26eb941724e78e5d4
+sig s: 46bab8a0e462bcf7e28e7ac17aa855453ee8f4942583082f7188303e214f8049
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Signature validated for block 0
+Finished signing 1 blocks for transaction eb7f0e3e-49fa-43d7-8438-28940a088eb6 (tenant test tenant) in 7958ms
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+Signature validated for block 0
+Finished signing 1 blocks for transaction 0c1e6232-e747-411d-8027-164d2ae052a1 (tenant test tenant) in 6165ms
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Entering txid = 0c1e6232-e747-411d-8027-164d2ae052a1
+sig r: c0be5bb50cd15ff3a374d44994760c90855330c33aa9d2167e9baa49c398c9ad
+sig s: 03595dc8ea59aa2251292ada056b31e590e4876437f664a99cfa1b361eeb959d
+calculating sig with R' = R * 1
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Signature validated for block 0
+Finished signing 1 blocks for transaction eb7f0e3e-49fa-43d7-8438-28940a088eb6 (tenant test tenant) in 6332ms
+Entering txid = eb7f0e3e-49fa-43d7-8438-28940a088eb6
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+calculating sig with R' = R * 1
+sig r: 32791d6863e02c7869277af7bf4b9250fa01171a033192555fd5b0139166d383
+sig s: 6db32b8ab2e8e3ab0f1c0c37ecd7d22da9079f4172070dac17b8f7d90ff058c8
+Signature validated for block 0
+Finished signing 1 blocks for transaction 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd (tenant test tenant) in 7900ms
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Signature validated for block 0
+Finished signing 1 blocks for transaction 20dc7270-4244-4c67-961b-8989462f03c4 (tenant test tenant) in 7817ms
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+Signature validated for block 0
+Finished signing 1 blocks for transaction 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd (tenant test tenant) in 6218ms
+Entering txid = 710d6057-9cb0-407f-92ce-4ddfcbc4e1fd
+sig r: 560ab36d47a042a885faddf9068208af47fb71af3a0a7b56f467862abd518e7b
+calculating sig with R' = R * 1
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+sig s: 5c021a476075ec458253aa8ffde3648c2ec5a4bdf2860b2992d908e5b18806ef
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Signature validated for block 0
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Finished signing 1 blocks for transaction 20dc7270-4244-4c67-961b-8989462f03c4 (tenant test tenant) in 6251ms
+Entering txid = 20dc7270-4244-4c67-961b-8989462f03c4
+sig r: e0fd216cc53e38eb957ff951f7800db347bd30f39dbfa205008915d3e9fd287a
+sig s: 5f0f88a6b5fc3cde7b488e9e8475cbe238c6f7c3d004889b18adc9169f9e7b44
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Signature validated for block 0
+Finished signing 1 blocks for transaction 13b99e37-21a3-445b-b1e8-8c5099bb2fb9 (tenant test tenant) in 7863ms
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+Signature validated for block 0
+Finished signing 1 blocks for transaction 13b99e37-21a3-445b-b1e8-8c5099bb2fb9 (tenant test tenant) in 6177ms
+Entering txid = 13b99e37-21a3-445b-b1e8-8c5099bb2fb9
+sig r: bc73ff5804662e31f4c9f823d1153b3b8adafa1c2f841620bd8d2b5394606046
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+sig s: 3797d533ca6090c8caef009fe7bb5f17c215fea774ff68815e44ca23e25bdc2c
+calculating sig with R' = R * 1
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+calculating sig with R' = R * 1
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Signature validated for block 0
+Finished signing 1 blocks for transaction 8a213f32-0803-475c-9b68-fe18e530e841 (tenant test tenant) in 7863ms
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+calculating sig with R' = R * 1
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Signature validated for block 0
+Finished signing 1 blocks for transaction 8a213f32-0803-475c-9b68-fe18e530e841 (tenant test tenant) in 6222ms
+Entering txid = 8a213f32-0803-475c-9b68-fe18e530e841
+sig r: 0a72b0f286f2fc53598172ab7c9b9442c9d125ddb77981da8baf6aa1d8ac7e18
+sig s: 5ac5039647ffd3f29619ddbda770ab329d5d38be4e84dba18d1ab1556175eeca
+Signature validated for block 0
+Finished signing 1 blocks for transaction c3185cda-f1ae-4478-a601-6a21f07264a7 (tenant test tenant) in 7843ms
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Signature validated for block 0
+Finished signing 1 blocks for transaction c3185cda-f1ae-4478-a601-6a21f07264a7 (tenant test tenant) in 6087ms
+Entering txid = c3185cda-f1ae-4478-a601-6a21f07264a7
+sig r: d59c19cf0b3716a52bfce3fcaa668a20b0e4e5468b9a8380bb8843d21db0e63c
+sig s: 2bdf3136524640fd629626da0a9ec421a404ae16e58c04fa687252d4e68eebc4
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+Done in 10508 ms
+txid id = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+calculating sig with R' = R * 1
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+calculating sig with R' = R * 1
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Signature validated for block 0
+Finished signing 1 blocks for transaction e83d7675-6e17-4b5f-8dfc-b1a0a47c9190 (tenant test tenant) in 524ms
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+Signature validated for block 0
+Finished signing 1 blocks for transaction e83d7675-6e17-4b5f-8dfc-b1a0a47c9190 (tenant test tenant) in 421ms
+Entering txid = e83d7675-6e17-4b5f-8dfc-b1a0a47c9190
+sig r: 17073047202eef2d964402b835ee944e1a8b7051044f742834889994bae32580
+sig s: 0e1f65682d358956c469d0cb69a6a8998e363b1e715b3701c1786dcb36acd31c
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+txid id = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+calculating sig with R' = R * 1
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+calculating sig with R' = R * 1
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Signature validated for block 0
+Finished signing 1 blocks for transaction 443fcd5d-4bed-40bf-87ac-d056a546304f (tenant test tenant) in 532ms
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+Signature validated for block 0
+Finished signing 1 blocks for transaction 443fcd5d-4bed-40bf-87ac-d056a546304f (tenant test tenant) in 440ms
+Entering txid = 443fcd5d-4bed-40bf-87ac-d056a546304f
+sig r: 77520706a688e1a0291389369573198e1bf037e214e9cb3150c6c8c29650f512
+sig s: 280f01b5721e18a7ae7ef8b6ec0e0389a07e7414b105e483cb79ec97a4b8ec64
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+txid id = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+calculating sig with R' = R * 2
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+calculating sig with R' = R * 2
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Signature validated for block 0
+Finished signing 1 blocks for transaction 73925ac7-b4ad-457b-854d-ad41ca9a25a0 (tenant test tenant) in 492ms
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+Signature validated for block 0
+Finished signing 1 blocks for transaction 73925ac7-b4ad-457b-854d-ad41ca9a25a0 (tenant test tenant) in 399ms
+Entering txid = 73925ac7-b4ad-457b-854d-ad41ca9a25a0
+sig r: 3e8a276049097107eaff9734d95c9353ee5ee2c2bafa776cd4ca6eba868d81f5
+sig s: 447bcb4cc12c7c3c4ed0c5842c28ea7585155fb76c1a0ca693afdf73bf7af76d
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+txid id = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+calculating sig with R' = R * 1
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+calculating sig with R' = R * 1
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Signature validated for block 0
+Finished signing 1 blocks for transaction e652cc5a-f364-4c42-939e-ce3c55545be8 (tenant test tenant) in 523ms
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+Signature validated for block 0
+Finished signing 1 blocks for transaction e652cc5a-f364-4c42-939e-ce3c55545be8 (tenant test tenant) in 419ms
+Entering txid = e652cc5a-f364-4c42-939e-ce3c55545be8
+sig r: 4b8ce644419d960d7be21faaa64a966184d669a2d481bc0a8d5d24a044489f74
+sig s: 55d24f04977f7c6a913fb0d442176b35d68119830ad0ffa0082df10b52501a7d
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+txid id = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+calculating sig with R' = R * 2
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+calculating sig with R' = R * 2
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Signature validated for block 0
+Finished signing 1 blocks for transaction 1321b80c-19e6-48e3-b911-82aaa3384535 (tenant test tenant) in 516ms
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+Signature validated for block 0
+Finished signing 1 blocks for transaction 1321b80c-19e6-48e3-b911-82aaa3384535 (tenant test tenant) in 397ms
+Entering txid = 1321b80c-19e6-48e3-b911-82aaa3384535
+sig r: 0932da561286db671805fb7daf8e73787236f4ba1ef623dea26cc88e0e6f2e18
+sig s: 2e0e8a91d1e93048159bf3c2a68ed720a4d42232e5f0782b3a4e0ca8451f8c11
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+txid id = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+calculating sig with R' = R * 1
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+calculating sig with R' = R * 1
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Signature validated for block 0
+Finished signing 1 blocks for transaction b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a (tenant test tenant) in 494ms
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+Signature validated for block 0
+Finished signing 1 blocks for transaction b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a (tenant test tenant) in 392ms
+Entering txid = b2fe9ae1-780f-4ec5-8bdb-5c682e5f022a
+sig r: 66a504b4512ce767fd13cb29b9cb97d0152849cfdf1707bd5574516164e1ae73
+sig s: 22d5ab47b0d527bfd21ed21c152bf2f788504d3f9d455c5f3fc43e3c140867ea
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+txid id = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+calculating sig with R' = R * 1
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+calculating sig with R' = R * 1
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Signature validated for block 0
+Finished signing 1 blocks for transaction 85ba808c-bbbf-44c8-ba4c-b4ab022002da (tenant test tenant) in 587ms
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+Signature validated for block 0
+Finished signing 1 blocks for transaction 85ba808c-bbbf-44c8-ba4c-b4ab022002da (tenant test tenant) in 461ms
+Entering txid = 85ba808c-bbbf-44c8-ba4c-b4ab022002da
+sig r: 61690b5246aa950c6c80ba65dfa13f31f25d0d045cc0f59acf1935562369ae45
+sig s: 78d29710fd395002234b75583b42903059b3a882d6fe2485cec9c061791dc8e6
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+txid id = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Starting signing process keyid = 1820808d-5a1f-44b6-bd05-d90820c16415, txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+calculating sig with R' = R * 1
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+calculating sig with R' = R * 1
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Signature validated for block 0
+Finished signing 1 blocks for transaction 6725488f-4e33-42fb-9e38-e57c45ee36e7 (tenant test tenant) in 482ms
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+Signature validated for block 0
+Finished signing 1 blocks for transaction 6725488f-4e33-42fb-9e38-e57c45ee36e7 (tenant test tenant) in 388ms
+Entering txid = 6725488f-4e33-42fb-9e38-e57c45ee36e7
+sig r: 564d61bc02dcbafcf4aaa91c84778e03217b50d7c9a343ef9f1a529486e94c41
+sig s: 17da3144de07921b3a92b954061c1c487e8f6df8698f84213d1d1ba3c85d9af1
+derived public_key: 02c48a8e3035a85a8058a016f76ba1328f26a899aa382e1dfaeae80f373f553b8d
+keyid = e02e5bed-f1bc-4481-88e7-75481d3a3b75
+created share for key e02e5bed-f1bc-4481-88e7-75481d3a3b75 n = 2
+created share for key e02e5bed-f1bc-4481-88e7-75481d3a3b75 n = 2
+backing up keyid e02e5bed-f1bc-4481-88e7-75481d3a3b75..
+key share created for keyid e02e5bed-f1bc-4481-88e7-75481d3a3b75, and algorithm ECDSA_SECP256R1
+backing up keyid e02e5bed-f1bc-4481-88e7-75481d3a3b75..
+key share created for keyid e02e5bed-f1bc-4481-88e7-75481d3a3b75, and algorithm ECDSA_SECP256R1
+backing up keyid e02e5bed-f1bc-4481-88e7-75481d3a3b75..
+key share created for keyid e02e5bed-f1bc-4481-88e7-75481d3a3b75, and algorithm ECDSA_SECP256R1
+backing up keyid e02e5bed-f1bc-4481-88e7-75481d3a3b75..
+key share created for keyid e02e5bed-f1bc-4481-88e7-75481d3a3b75, and algorithm ECDSA_SECP256R1
+public key: 03519fac5bb725ef4c64e9da3e522e5685f7972df43c7fff988794a11674c77e03
+player 1 share: bef38a5b0289cf2ee0a8ed86aba24d4548c05c03e017478f0e7568dea5e1b6a3
+player 2 share: 748e22258dfa453027e12ba3aab2385e44ac6459bed409bdd30a0870f2d9a5b2
+txid id = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Starting signing process keyid = e02e5bed-f1bc-4481-88e7-75481d3a3b75, txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Starting signing process keyid = e02e5bed-f1bc-4481-88e7-75481d3a3b75, txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Starting signing process keyid = e02e5bed-f1bc-4481-88e7-75481d3a3b75, txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Starting signing process keyid = e02e5bed-f1bc-4481-88e7-75481d3a3b75, txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+calculating sig with R' = R * 1
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+calculating sig with R' = R * 1
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Signature validated for block 0
+Finished signing 1 blocks for transaction a05388fc-6559-4d2d-a432-d983e6ef0432 (tenant test tenant) in 508ms
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+Signature validated for block 0
+Finished signing 1 blocks for transaction a05388fc-6559-4d2d-a432-d983e6ef0432 (tenant test tenant) in 398ms
+Entering txid = a05388fc-6559-4d2d-a432-d983e6ef0432
+sig r: f93a914db5e7055885a0883e0f83c371f1b835425eaf9a3d610cdf01ac473b96
+sig s: 63073cc704e26066aa3401e9bcb9abcafa0a819cccd663ce2edc7d6ae91660d6
+derived public_key: 034b3b714095af9e30818b0d6955c555e5ac5ec9c7216a225621179b6a49764d66
+new keyid = 13de7413-3399-4949-b56c-f1b5a1bc26d9
+created share for key 13de7413-3399-4949-b56c-f1b5a1bc26d9 n = 3
+created share for key 13de7413-3399-4949-b56c-f1b5a1bc26d9 n = 3
+created share for key 13de7413-3399-4949-b56c-f1b5a1bc26d9 n = 3
+backing up keyid 13de7413-3399-4949-b56c-f1b5a1bc26d9..
+key share created for keyid 13de7413-3399-4949-b56c-f1b5a1bc26d9, and algorithm ECDSA_SECP256R1
+backing up keyid 13de7413-3399-4949-b56c-f1b5a1bc26d9..
+key share created for keyid 13de7413-3399-4949-b56c-f1b5a1bc26d9, and algorithm ECDSA_SECP256R1
+backing up keyid 13de7413-3399-4949-b56c-f1b5a1bc26d9..
+key share created for keyid 13de7413-3399-4949-b56c-f1b5a1bc26d9, and algorithm ECDSA_SECP256R1
+player 11 share: 2f09972a774d285cebb856e9cbab0ca8beff06419ec72e019abe2f3918bc1419
+player 12 share: 96d58285b7cb4b4c377dabf789f836ef8ac8e013f39b93f1c79d09308541ece5
+player 13 share: 6da292d0616ba0b5e554164900b1420b43a4da080c888f597f2438e5fabd5b57
+txid id = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Starting signing process keyid = 13de7413-3399-4949-b56c-f1b5a1bc26d9, txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Starting signing process keyid = 13de7413-3399-4949-b56c-f1b5a1bc26d9, txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Starting signing process keyid = 13de7413-3399-4949-b56c-f1b5a1bc26d9, txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Starting signing process keyid = 13de7413-3399-4949-b56c-f1b5a1bc26d9, txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Starting signing process keyid = 13de7413-3399-4949-b56c-f1b5a1bc26d9, txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Starting signing process keyid = 13de7413-3399-4949-b56c-f1b5a1bc26d9, txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+calculating sig with R' = R * 1
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+calculating sig with R' = R * 1
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+calculating sig with R' = R * 1
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Signature validated for block 0
+Finished signing 1 blocks for transaction c8d7ce6d-abf0-466a-b190-db223a631b8d (tenant test tenant) in 1476ms
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Signature validated for block 0
+Finished signing 1 blocks for transaction c8d7ce6d-abf0-466a-b190-db223a631b8d (tenant test tenant) in 1271ms
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+Signature validated for block 0
+Finished signing 1 blocks for transaction c8d7ce6d-abf0-466a-b190-db223a631b8d (tenant test tenant) in 1047ms
+Entering txid = c8d7ce6d-abf0-466a-b190-db223a631b8d
+sig r: 5d5223dfdf8bc195493acfe97cf3eee6c69ba8ef1a3d83f3e6e7506b3d3b069c
+sig s: 30e0da1c19720ab39d089254b1987328483933e89dcecb66af023b5f4c1ce403
+derived public_key: 034b3b714095af9e30818b0d6955c555e5ac5ec9c7216a225621179b6a49764d66
+keyid = b145e568-ad48-4874-835d-9f3c41f83d10
+created share for key b145e568-ad48-4874-835d-9f3c41f83d10 n = 2
+created share for key b145e568-ad48-4874-835d-9f3c41f83d10 n = 2
+backing up keyid b145e568-ad48-4874-835d-9f3c41f83d10..
+key share created for keyid b145e568-ad48-4874-835d-9f3c41f83d10, and algorithm ECDSA_STARK
+backing up keyid b145e568-ad48-4874-835d-9f3c41f83d10..
+key share created for keyid b145e568-ad48-4874-835d-9f3c41f83d10, and algorithm ECDSA_STARK
+backing up keyid b145e568-ad48-4874-835d-9f3c41f83d10..
+key share created for keyid b145e568-ad48-4874-835d-9f3c41f83d10, and algorithm ECDSA_STARK
+backing up keyid b145e568-ad48-4874-835d-9f3c41f83d10..
+key share created for keyid b145e568-ad48-4874-835d-9f3c41f83d10, and algorithm ECDSA_STARK
+public key: 02052f727414dfbd4d7f9a19042cfc269fe0b3694241daae636424f2519d9c9c68
+player 1 share: 02dfe5b08059157685007548117ad6e814d8d800a949ad1a54f16e4fa0d42df8
+player 2 share: 05173f8c86acb9ec59e81a6b8a6e3aecd192026644d98794e0fedc0087e0372c
+txid id = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Starting signing process keyid = b145e568-ad48-4874-835d-9f3c41f83d10, txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Starting signing process keyid = b145e568-ad48-4874-835d-9f3c41f83d10, txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Starting signing process keyid = b145e568-ad48-4874-835d-9f3c41f83d10, txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Starting signing process keyid = b145e568-ad48-4874-835d-9f3c41f83d10, txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+calculating sig with R' = R * 1
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+calculating sig with R' = R * 1
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Signature validated for block 0
+Finished signing 1 blocks for transaction 05e3e703-3cb0-406f-8635-0a2d11c034d7 (tenant test tenant) in 753ms
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+Signature validated for block 0
+Finished signing 1 blocks for transaction 05e3e703-3cb0-406f-8635-0a2d11c034d7 (tenant test tenant) in 647ms
+Entering txid = 05e3e703-3cb0-406f-8635-0a2d11c034d7
+sig r: 04c4bf4f0a65cc600e4e31c1c773e645853a8ae6d5f57fdd4000f1df0dd9f821
+sig s: 029b8e818651f20e72d434b691294010c4a26068a6327dcf84427f495bdb4528
+derived public_key: 0302696921cda6bdd98264ff3e6690bf34a61565c3d6f8df4db17d2bdedd6bdeb0
+new keyid = 184b3c2c-5365-4673-8940-9bb210374696
+created share for key 184b3c2c-5365-4673-8940-9bb210374696 n = 3
+created share for key 184b3c2c-5365-4673-8940-9bb210374696 n = 3
+created share for key 184b3c2c-5365-4673-8940-9bb210374696 n = 3
+backing up keyid 184b3c2c-5365-4673-8940-9bb210374696..
+key share created for keyid 184b3c2c-5365-4673-8940-9bb210374696, and algorithm ECDSA_STARK
+backing up keyid 184b3c2c-5365-4673-8940-9bb210374696..
+key share created for keyid 184b3c2c-5365-4673-8940-9bb210374696, and algorithm ECDSA_STARK
+backing up keyid 184b3c2c-5365-4673-8940-9bb210374696..
+key share created for keyid 184b3c2c-5365-4673-8940-9bb210374696, and algorithm ECDSA_STARK
+player 11 share: 01e222e0393eff035811272004acbc242649cbce662182381dbf2563f330a09b
+player 12 share: 05802fe02df44b55ef0e09ae781c6c47de4a289887bfa4420546ada9a7e701c4
+player 13 share: 0094d27c9fd2850997c95ee51f1fe968e1d6e60000420e3512ea77428d9cc2c5
+txid id = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Starting signing process keyid = 184b3c2c-5365-4673-8940-9bb210374696, txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Starting signing process keyid = 184b3c2c-5365-4673-8940-9bb210374696, txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Starting signing process keyid = 184b3c2c-5365-4673-8940-9bb210374696, txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Starting signing process keyid = 184b3c2c-5365-4673-8940-9bb210374696, txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Starting signing process keyid = 184b3c2c-5365-4673-8940-9bb210374696, txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Starting signing process keyid = 184b3c2c-5365-4673-8940-9bb210374696, txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+calculating sig with R' = R * 1
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+calculating sig with R' = R * 1
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+calculating sig with R' = R * 1
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Signature validated for block 0
+Finished signing 1 blocks for transaction ba21c943-6edc-4766-a42f-fbc7316d8173 (tenant test tenant) in 2170ms
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Signature validated for block 0
+Finished signing 1 blocks for transaction ba21c943-6edc-4766-a42f-fbc7316d8173 (tenant test tenant) in 1971ms
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+Signature validated for block 0
+Finished signing 1 blocks for transaction ba21c943-6edc-4766-a42f-fbc7316d8173 (tenant test tenant) in 1772ms
+Entering txid = ba21c943-6edc-4766-a42f-fbc7316d8173
+sig r: 0105da77d573f8ce745766ee20e421e9969698491e70df45cc40e8ad994b9cad
+sig s: 0184444c2a9518e72443585eac66b9a3a77f20fbb5de28ece1938ab0dee72487
+derived public_key: 0302696921cda6bdd98264ff3e6690bf34a61565c3d6f8df4db17d2bdedd6bdeb0
+keyid = 34256b71-30fe-4365-995d-2158ca18facb
+created share for key 34256b71-30fe-4365-995d-2158ca18facb n = 2
+created share for key 34256b71-30fe-4365-995d-2158ca18facb n = 2
+backing up keyid 34256b71-30fe-4365-995d-2158ca18facb..
+key share created for keyid 34256b71-30fe-4365-995d-2158ca18facb, and algorithm EDDSA_ED25519
+backing up keyid 34256b71-30fe-4365-995d-2158ca18facb..
+key share created for keyid 34256b71-30fe-4365-995d-2158ca18facb, and algorithm EDDSA_ED25519
+backing up keyid 34256b71-30fe-4365-995d-2158ca18facb..
+key share created for keyid 34256b71-30fe-4365-995d-2158ca18facb, and algorithm EDDSA_ED25519
+backing up keyid 34256b71-30fe-4365-995d-2158ca18facb..
+key share created for keyid 34256b71-30fe-4365-995d-2158ca18facb, and algorithm EDDSA_ED25519
+public key: 7a2f6657034587c56e8b2e00885c10eb47620f068f2da0dea25cd4899d07d431
+player 1 share: 00847d98d536f7b51bcc76c37f0b6ae7702b8c79730380ed07658f39763f9626
+player 12345678 share: 022058c599fbf43b8e90e6ab9ff05cd201d3ed4a8f03dccc5d53b54d301fde03
+request id = d71bda3b-af97-4666-b5bc-d5f025fe7d16
+Entering request id = d71bda3b-af97-4666-b5bc-d5f025fe7d16
+Entering request id = d71bda3b-af97-4666-b5bc-d5f025fe7d16
+Entering request id = d71bda3b-af97-4666-b5bc-d5f025fe7d16
+txid id = e64f39a2-02ec-4873-8d5c-8bc282fb4b34
+Entering txid = e64f39a2-02ec-4873-8d5c-8bc282fb4b34
+Starting signing process keyid = 34256b71-30fe-4365-995d-2158ca18facb, txid = e64f39a2-02ec-4873-8d5c-8bc282fb4b34
+Doing MPC 2/2 no need to send commitments
+Entering txid = e64f39a2-02ec-4873-8d5c-8bc282fb4b34
+Starting signing process keyid = 34256b71-30fe-4365-995d-2158ca18facb, txid = e64f39a2-02ec-4873-8d5c-8bc282fb4b34
+Doing MPC 2/2 no need to send commitments
+Entering txid = e64f39a2-02ec-4873-8d5c-8bc282fb4b34
+Entering txid = e64f39a2-02ec-4873-8d5c-8bc282fb4b34
+Entering txid = e64f39a2-02ec-4873-8d5c-8bc282fb4b34
+My id 1 is the min id, will add client s to my s
+Signature validated for block 0
+Finished signing 2 blocks for transaction e64f39a2-02ec-4873-8d5c-8bc282fb4b34 (tenant test tenant) in 15ms
+Entering txid = e64f39a2-02ec-4873-8d5c-8bc282fb4b34
+derived public_key: 4159c671acb30b77e34448eb3a7d49e1fd8d0d0804b2386fd28a9110872199e400
+sig r: 1d73cdeb489aa0cea1eb585bfb941f9667f52eeba0f72dec244c854ab46b5d97
+sig s: b88bd130fb17bc09e35ad15580f58f72bb5e89a9faa50fddbf221736a2f8ad0a
+txid id = 170c91f3-08a1-4cf3-952b-45f2d68330b0
+Entering txid = 170c91f3-08a1-4cf3-952b-45f2d68330b0
+Starting signing process keyid = 34256b71-30fe-4365-995d-2158ca18facb, txid = 170c91f3-08a1-4cf3-952b-45f2d68330b0
+Doing MPC 2/2 no need to send commitments
+Entering txid = 170c91f3-08a1-4cf3-952b-45f2d68330b0
+Starting signing process keyid = 34256b71-30fe-4365-995d-2158ca18facb, txid = 170c91f3-08a1-4cf3-952b-45f2d68330b0
+Doing MPC 2/2 no need to send commitments
+Entering txid = 170c91f3-08a1-4cf3-952b-45f2d68330b0
+Entering txid = 170c91f3-08a1-4cf3-952b-45f2d68330b0
+Entering txid = 170c91f3-08a1-4cf3-952b-45f2d68330b0
+My id 1 is the min id, will add client s to my s
+Signature validated for block 0
+Finished signing 2 blocks for transaction 170c91f3-08a1-4cf3-952b-45f2d68330b0 (tenant test tenant) in 14ms
+Entering txid = 170c91f3-08a1-4cf3-952b-45f2d68330b0
+derived public_key: 4159c671acb30b77e34448eb3a7d49e1fd8d0d0804b2386fd28a9110872199e400
+sig r: 0229f7a3d675a0f6f82d13d382c5633fae2a55779e66b483008640d96b82c0b9
+sig s: 7a03ca8d7797155809a974867f6414f393a86ab26150fabce04201d371fd6605
+keyid = 75112f68-7d4e-44c2-979f-c3cfecb5c4a9
+created share for key 75112f68-7d4e-44c2-979f-c3cfecb5c4a9 n = 3
+created share for key 75112f68-7d4e-44c2-979f-c3cfecb5c4a9 n = 3
+created share for key 75112f68-7d4e-44c2-979f-c3cfecb5c4a9 n = 3
+backing up keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9..
+key share created for keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, and algorithm EDDSA_ED25519
+backing up keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9..
+key share created for keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, and algorithm EDDSA_ED25519
+backing up keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9..
+key share created for keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, and algorithm EDDSA_ED25519
+backing up keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9..
+key share created for keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, and algorithm EDDSA_ED25519
+backing up keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9..
+key share created for keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, and algorithm EDDSA_ED25519
+backing up keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9..
+key share created for keyid 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, and algorithm EDDSA_ED25519
+public key: a165139dcc6846bf969da25a3f5738468c5408976380ea7215c2475a9cdecceb
+player 11 share: 0ea9d30abd458f11dbf2cc8d154d5b6f208570370021f51f229c66950679f6e5
+player 12 share: 0efc837ec73cd9b2236fa0ec942f9f8e45b133eae28768549747fa892d00022f
+player 12345678 share: 08a5d3338b3ec7958e1f19340beb453aff7dd2c03a1352d30a7f97c06a7ea0d3
+request id = 17c6d6e0-6a45-4d14-a5db-bd8ae8bcc073
+Entering request id = 17c6d6e0-6a45-4d14-a5db-bd8ae8bcc073
+Entering request id = 17c6d6e0-6a45-4d14-a5db-bd8ae8bcc073
+Entering request id = 17c6d6e0-6a45-4d14-a5db-bd8ae8bcc073
+Entering request id = 17c6d6e0-6a45-4d14-a5db-bd8ae8bcc073
+Entering request id = 17c6d6e0-6a45-4d14-a5db-bd8ae8bcc073
+txid id = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Starting signing process keyid = 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Starting signing process keyid = 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Starting signing process keyid = 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Starting signing process keyid = 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+My id 11 is the min id, will add client s to my s
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+My id 11 is the min id, will add client s to my s
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Signature validated for block 0
+Finished signing 1 blocks for transaction 2ffd5608-d8fd-4219-8795-64205df34f3c (tenant test tenant) in 33ms
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+Signature validated for block 0
+Finished signing 1 blocks for transaction 2ffd5608-d8fd-4219-8795-64205df34f3c (tenant test tenant) in 40ms
+Entering txid = 2ffd5608-d8fd-4219-8795-64205df34f3c
+derived public_key: 1fab45be3765fb89f96744a64c66a358d951f5715f59ce3d709a680e0454f8b100
+sig r: 36ccd2c3d1aa4c77578788c2379900b95037f6bff7dc0137cb49b958c335331f
+sig s: e4bd356eba3b2b6a9c7bf2c95a99aa507b80da0039f9478e6853b68544b8e90c
+sig r: 36ccd2c3d1aa4c77578788c2379900b95037f6bff7dc0137cb49b958c335331f
+sig s: e4bd356eba3b2b6a9c7bf2c95a99aa507b80da0039f9478e6853b68544b8e90c
+txid id = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Starting signing process keyid = 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Starting signing process keyid = 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Starting signing process keyid = 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Starting signing process keyid = 75112f68-7d4e-44c2-979f-c3cfecb5c4a9, txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+My id 11 is the min id, will add client s to my s
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+My id 11 is the min id, will add client s to my s
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Signature validated for block 0
+Finished signing 1 blocks for transaction e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb (tenant test tenant) in 36ms
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+Signature validated for block 0
+Finished signing 1 blocks for transaction e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb (tenant test tenant) in 42ms
+Entering txid = e9f2ed95-ddc4-4c32-b4f1-703a6cdbb9fb
+derived public_key: 1fab45be3765fb89f96744a64c66a358d951f5715f59ce3d709a680e0454f8b100
+sig r: a7df118045a62ea89af39952f403bfc61624e2418a4a01bb6184ab53d210c31c
+sig s: d062b3694bee334b8fdd8f52be9b75dcdf5b2d635929e643f9340251aadc3a07
+sig r: a7df118045a62ea89af39952f403bfc61624e2418a4a01bb6184ab53d210c31c
+sig s: d062b3694bee334b8fdd8f52be9b75dcdf5b2d635929e643f9340251aadc3a07
+===============================================================================
+All tests passed (2366 assertions in 4 test cases)
+
+make[2]: Leaving directory '/workspaces/mpc-study/test/cosigner'
+make[1]: Leaving directory '/workspaces/mpc-study/test'
